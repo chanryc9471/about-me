@@ -1,7 +1,7 @@
 # About Me
 ### Name: Chanry 
 #### High School of Telecommunication Arts and Technology
-##### School Schedule
+##### School Schedule 
 1. Algebra II
 2. Global History
 3. Lunch
@@ -11,3 +11,10 @@
 7. English
 8. Spanish
 9. Yoga (Mon, Wed, Thurs)
+
+##### Favorites
+Color : blue
+Tv Show : Manifest
+Food : Sushi 
+Ice Cream Flavor : cookies & cream
+Cookie : red velvet 
