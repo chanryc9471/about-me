@@ -13,8 +13,8 @@
 9. Yoga (Mon, Wed, Thurs)
 
 ##### Favorites
-Color : blue
-Tv Show : Manifest
-Food : Sushi 
-Ice Cream Flavor : cookies & cream
-Cookie : red velvet 
+Color : blue <br>
+Tv Show : Manifest <br>
+Food : Sushi <br>
+Ice Cream Flavor : cookies & cream <br>
+Cookie : red velvet <br>
