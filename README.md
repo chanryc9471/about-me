@@ -1,6 +1,6 @@
 # About Me
 ### Name: Chanry 
-#### High School of Telecommunication Arts and Technology
+#### _High School of Telecommunication Arts and Technology_
 ##### chanryc9471@hstat.org
 ##### School Schedule 
 1. Algebra II
