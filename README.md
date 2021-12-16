@@ -15,7 +15,7 @@
 
 ##### Favorites
 * Color : blue 
-* Tv Show : Manifest <br>
-* Food : Sushi <br>
-* Ice Cream Flavor : cookies & cream <br>
-* Cookie : red velvet <br>
+* Tv Show : Manifest 
+* Food : Sushi 
+* Ice Cream Flavor : cookies & cream 
+* Cookie : red velvet 
