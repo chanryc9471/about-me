@@ -21,4 +21,13 @@
 * Tv Show : Manifest 
 * Food : Sushi 
 * Ice Cream Flavor : cookies & cream 
-* Cookie : red velvet 
+* Cookie : red velvet
+* Song : [Closed Ending - SHAUN](https://youtu.be/sJP8h6AuGE4)
+
+##### Songs 
+**Here are some songs I listen to:**  
+Jam & Butterfly - DPR LIVE, Crush, Eaj  
+Somebody - keshi  
+Youngblood - 5 Seconds of Summer  
+By My Side - JUNNY  
+Ghost - Justin Bieber
