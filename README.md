@@ -5,7 +5,7 @@
 ---
 ##### chanryc9471@hstat.org
 ---
-##### School Schedule 
+#### School Schedule 
 1. Algebra II
 2. Global History
 3. Lunch
@@ -16,7 +16,7 @@
 8. Spanish
 9. Yoga **(Mon, Wed, Thurs)**
 
-##### Favorites
+#### Favorites
 * Color : blue 
 * Tv Show : Manifest 
 * Food : Sushi 
@@ -24,7 +24,7 @@
 * Cookie : red velvet
 * Song : [Closed Ending - SHAUN](https://youtu.be/sJP8h6AuGE4)
 
-##### Songs 
+#### Songs 
 **Here are some songs I listen to:**  
 Jam & Butterfly - DPR LIVE, Crush, Eaj  
 Somebody - keshi  
